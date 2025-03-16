@@ -20,7 +20,7 @@ A personal portfolio website showcasing projects, skills, and contact informatio
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/SIRTEGS024/Portfolio.git
 cd portfolio-website
 ```
 
