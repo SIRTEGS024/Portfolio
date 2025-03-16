@@ -51,8 +51,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information, built with React and styled using Tailwind CSS, with animations powered by Framer Motion.",
     technologies: ["React", "Tailwind.css", "Framer Motion"],
-    url: "",
-    readme: ""
+    url: "https://portfolio-gilt-three-99.vercel.app",
+    readme: "https://github.com/SIRTEGS024/Portfolio"
   },
 ];
 

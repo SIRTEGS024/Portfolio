@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
-import CV from "../assets/Metitiri_Oghenetega_Cv5.pdf";
+import CV from "../assets/Metitiri_Oghenetega_Cv6.pdf";
 
 const Navbar = () => {
   return (
