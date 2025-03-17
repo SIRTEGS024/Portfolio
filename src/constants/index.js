@@ -25,7 +25,8 @@ export const PROJECTS = [
       "T-Shop is a full-stack e-commerce platform built with MongoDB, Redis, Stripe, JWT, and React, offering a secure and seamless shopping experience. It features user authentication with JWT (access and refresh tokens), product and category management, a shopping cart, and checkout with Stripe integration. Users can apply coupon codes, while admins can manage orders, track sales through an analytics dashboard, and oversee the platform. Redis caching enhances performance, and Tailwind CSS ensures a modern UI. With a focus on security, scalability, and full-stack deployment, T-Shop delivers a robust and efficient online shopping solution.",
     technologies: ["React", "Node.js", "Express", "Tailwind.css"],
     url: "https://t-shop-y62s.onrender.com/",
-    readme: "https://github.com/SIRTEGS024/T-shop"
+    readme: "https://github.com/SIRTEGS024/T-shop",
+    note:"The admin page is best viewed on a desktop mode for an optimal experience. To access admin credentials, click 'Read More' to view the README."
   },
   {
     title: "Metrack – Fullstack Real-Time Slack Clone",
@@ -34,7 +35,8 @@ export const PROJECTS = [
       "Metrack is a fullstack real-time messaging platform inspired by Slack. It supports workspaces, channels, 1:1 conversations, threaded discussions, reactions, and role-based access control. Users can send messages, upload images, edit or delete messages, and manage user roles—all powered by Convex for real-time updates.",
     technologies: ["Next.js", "Convex", "Typescript", "Tailwind.css"],
     url: "https://metrack-git-main-sirtegs024s-projects.vercel.app",
-    readme: "https://github.com/SIRTEGS024/METRACK"
+    readme: "https://github.com/SIRTEGS024/METRACK",
+    note:"This project is optimized for desktop mode viewing for the best user experience."
   },
   {
     title: "Tegstock - Full Stack Inventory Management Dashboard",
@@ -43,7 +45,8 @@ export const PROJECTS = [
       "Tegstock is a full-stack inventory management dashboard designed for seamless inventory tracking, built with Next.js, Redux, Node.js, and AWS. The frontend features a responsive UI styled with Tailwind CSS, utilizing Material UI Data Grid for data handling, Redux Toolkit for state management, and Recharts for data visualization. The backend, powered by Node.js, Express, and Prisma, integrates PostgreSQL for structured data storage. Hosted on AWS, it leverages RDS for database management, EC2 for backend hosting, API Gateway for secure endpoints, Amplify for frontend deployment, and S3 for storage. Key features include real-time inventory tracking, advanced search and filtering, supplier management,and analytics, ensuring a scalable and efficient cloud-based solution.",
     technologies: ["Next.js", "Typescript", "Node.js", "Tailwind.css"],
     url: "https://main.d1exwyzl9jqwbo.amplifyapp.com",
-    readme: "https://github.com/SIRTEGS024/TEGSTOCK-INVENTORY-MANAGEMENT"
+    readme: "https://github.com/SIRTEGS024/TEGSTOCK-INVENTORY-MANAGEMENT",
+    note:""
   },
   {
     title: "Portfolio Website",
@@ -52,7 +55,8 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information, built with React and styled using Tailwind CSS, with animations powered by Framer Motion.",
     technologies: ["React", "Tailwind.css", "Framer Motion"],
     url: "https://portfolio-gilt-three-99.vercel.app",
-    readme: "https://github.com/SIRTEGS024/Portfolio"
+    readme: "https://github.com/SIRTEGS024/Portfolio",
+    note:""
   },
 ];
 

@@ -45,6 +45,14 @@ const Projects = () => {
               </a>
             </h6>
             <p className="mb-4 text-neutral-400">{project.description}</p>
+            {project.note && (
+              <div className="bg-yellow-100 text-yellow-800 font-semibold p-3 rounded-lg border-l-4 border-yellow-500 shadow-md flex items-center gap-2">
+                ⚠️{" "}
+                <span>
+                  {project.note}
+                </span>
+              </div>
+            )}
             <div className="flex flex-wrap gap-2">
               {project.technologies.map((tech, index) => (
                 <span
