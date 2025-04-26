@@ -22,11 +22,11 @@ export const PROJECTS = [
     title: "T-Shop - E-Commerce Website",
     image: project3,
     description:
-      "T-Shop is a full-stack e-commerce platform built with MongoDB, Redis, Stripe, JWT, and React, offering a secure and seamless shopping experience. It features user authentication with JWT (access and refresh tokens), product and category management, a shopping cart, and checkout with Stripe integration. State management is handled using Zustand, ensuring efficient and lightweight global state management. Users can apply coupon codes, while admins can manage orders, track sales through an analytics dashboard, and oversee the platform. Redis caching enhances performance, and Tailwind CSS ensures a modern UI. With a focus on security, scalability, and full-stack deployment, T-Shop delivers a robust and efficient online shopping solution.",
+      "T-Shop is a full-stack e-commerce platform built with MongoDB, Redis, Stripe, JWT, and React, offering a secure and seamless shopping experience. It features user authentication with JWT (access and refresh tokens), email verification and “forgot password” flows via Nodemailer, product and category management, a shopping cart, and checkout with Stripe integration. State management is handled using Zustand for efficient global state, users can apply coupon codes, and admins can manage orders, track sales through an analytics dashboard, and oversee the platform. Redis caching enhances performance, and Tailwind CSS ensures a modern UI. With a focus on security, scalability, and full-stack deployment, T-Shop delivers a robust and efficient online shopping solution.",
     technologies: ["React", "Node.js", "Express", "Tailwind.css", "Zustand"],
     url: "https://t-shop-y62s.onrender.com/",
     readme: "https://github.com/SIRTEGS024/T-shop",
-    note:"The admin page is best viewed on a desktop mode for an optimal experience. To access admin credentials, click 'Read More' to view the README."
+    note:"If you don’t receive the email in your inbox, please check your spam/junk folder. The admin page is best viewed on a desktop for an optimal experience. To access admin credentials, click Read More to view the README."
   },
   {
     title: "Metrack – Fullstack Real-Time Slack Clone",
